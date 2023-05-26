@@ -101,5 +101,5 @@ Using third-party libraries like Finsweet's can help designers unlock more of We
 * Data modelled and stored in collections
 
 ## ToDO:
-### Anyway to use CMS for simple projects in a cheap and sot of easy way?
+### Find a way to use CMS for simple projects in a cheap and sort of easy way?
 
