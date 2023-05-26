@@ -100,6 +100,6 @@ Using third-party libraries like Finsweet's can help designers unlock more of We
 * Web apps with advanced search/filter capabilities
 * Data modelled and stored in collections
 
-## Missing:
-### How to solve the backup collections backup in an easy way.
+## ToDO:
+### Anyway to use CMS for simple projects in a cheap and sot of easy way?
 
